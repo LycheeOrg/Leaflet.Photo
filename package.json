@@ -7,6 +7,10 @@
     "type": "git",
     "url": "git+https://github.com/LycheeOrg/Leaflet.Photo.git"
   },
+  "scripts": {
+    "check-formatting": "prettier --check .",
+    "format": "prettier --write ."
+  },
   "keywords": [
     "leaflet",
     "photo",
@@ -21,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/LycheeOrg/Leaflet.Photo/issues"
   },
-  "homepage": "https://github.com/LycheeOrg/Leaflet.Photo#readme"
+  "homepage": "https://github.com/LycheeOrg/Leaflet.Photo#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
