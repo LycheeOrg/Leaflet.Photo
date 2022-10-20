@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Plugin to show geotagged photos on a Leaflet map",
   "main": "Leaflet.Photo.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LycheeOrg/Leaflet.Photo.git"
@@ -16,7 +13,10 @@
     "geo",
     "geotagging"
   ],
-  "author": "Bjorn Sandvik, The Lychee Organization",
+  "authors": [
+    "Bjorn Sandvik",
+    "The Lychee Organization"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/LycheeOrg/Leaflet.Photo/issues"
