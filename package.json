@@ -22,9 +22,6 @@
     "The Lychee Organization"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/LycheeOrg/Leaflet.Photo/issues"
-  },
   "homepage": "https://github.com/LycheeOrg/Leaflet.Photo#readme",
   "devDependencies": {
     "prettier": "^2.7.1"
